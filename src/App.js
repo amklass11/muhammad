@@ -128,27 +128,27 @@ const App = () => {
       <div className="contact">
       <img
           src="./assets/twitter.png"
-          alt="Twitter Logo"
+          alt="Twitter"
           className="logo"
         />
         <img
           src="./assets/github.png"
-          alt="GitHub Logo"
+          alt="GitHub"
           className="logo"
         />
         <img
-          src="./facebook.png"
-          alt="Facebook Logo"
+          src="./assets/facebook.png"
+          alt="Facebook"
           className="logo"
         />
         <img
           src="./assets/linkedin.png"
-          alt="LinkedIn Logo"
+          alt="LinkedIn "
           className="logo"
         />
         <img
-          src="./assets/wifi.png"
-          alt="WiFi Logo"
+          src="./assets/wifi.ping."
+          alt="WiFi "
           className="logo"
         />
 
